@@ -1,7 +1,8 @@
 ###
 
 <div align="center">
-  <img src="https://media.giphy.com/media/Y4pAQv58ETJgRwoLxj/giphy.gif" width="300"/>
+  
+  ![](https://github.com/FadiMatar24/Fadi-Matar/blob/main/gifimage.gif) 
 </div>
 
 ###
