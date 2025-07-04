@@ -65,18 +65,6 @@ I'm Fadi Matar!<br><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" />
 </div>
 
-###
-
-<h3 align="left">📈 GitHub Stats</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=fadimatar&theme=dark&hide_border=false&border_radius=5" height="220" />
-</div>
-
-###
-
 <h3 align="left">💬 Reach Me</h3>
 
 ###
